@@ -1,0 +1,1 @@
+The code is pretty simple, only need to manually choose the path of the file and, at the end of the file, read the instructions for manually adjusting the starting time for the subtitles. This is a necessary step for aligning subtitles and video.
